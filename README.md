@@ -24,3 +24,6 @@ One potential application is the development of mobile disease diagnotics throug
 1. Python
 2. Tensorflow
 3. Keras
+
+## Interface
+![image](https://user-images.githubusercontent.com/50231750/201531039-1b48322d-c55c-4e08-b81a-fb1a513fca13.png)
