@@ -27,3 +27,8 @@ One potential application is the development of mobile disease diagnotics throug
 
 ## Interface
 ![image](https://user-images.githubusercontent.com/50231750/201531039-1b48322d-c55c-4e08-b81a-fb1a513fca13.png)
+
+## Upload Image
+![image](https://user-images.githubusercontent.com/50231750/201531092-c66507dc-9f5b-40d2-a030-05d7b2bdcc3b.png)
+
+## Output
