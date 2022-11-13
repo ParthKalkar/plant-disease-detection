@@ -26,6 +26,23 @@ One potential application is the development of mobile disease diagnotics throug
 3. Keras
 4. Streamlit
 
+## Run
+Step to run application:
+
+Step 1: Create the copy of the project.
+
+Step 2: Open command prompt and change your current path to folder where you can find 'app.py' file.
+
+Step 3: Create environment by command given below: $ conda create -name <environment name>
+
+Step 4: Activate environment by command as follows: $ conda activate <environment name>
+
+Step 5: Use command below to install required dependencies: $ python -m pip install -r requirements.txt
+
+Step 6: Run application by command: $ streamlit run main_app.py You will get url copy it and paste in browser.
+
+Step 7: You can download a picture from the internet and upload it on the website, then click predict button to get the output.
+
 ## Interface
 ![image](https://user-images.githubusercontent.com/50231750/201531039-1b48322d-c55c-4e08-b81a-fb1a513fca13.png)
 
