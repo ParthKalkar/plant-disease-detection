@@ -3,6 +3,11 @@ In this project, I created a Convolutional Neural Network which predicts whether
 
 I used different layers and other hyperparameters for building, training and testing this classification model. 
 
+## Scope
+Human society needs to increase food production by an estimated 70% by 2050 to feed an expected population size that is predicted to be over 9 billion people. Currently, infectious diseases reduce the potential yield by an average of 40% with many farmers in the developing world experiencing yield losses as high as 100%. The widespread distribution of smartphones among crop growers around the world with an expected 5 billion smarpgones by 2020 offers the potential of turning the smartphone into a valubale tool for diverse communities growing food. 
+
+One potential application is the development of mobile disease diagnotics through machine learning and big data. 
+
 ## Steps
 1. Mounting google drive on collab notebook.
 2. Visualizing the images that we will be working on.
